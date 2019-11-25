@@ -1,0 +1,32 @@
+{
+  "name": "raws",
+  "version": "1.0.0",
+  "description": "A server-side first JavaScript optional SPA view framework for HTML, CSS and the Web, in Node.JS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosycorp/raw.git"
+  },
+  "keywords": [
+    "server-side",
+    "HTML",
+    "framework",
+    "app",
+    "view",
+    "state",
+    "action"
+  ],
+  "author": "@dosy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dosycorp/raw/issues"
+  },
+  "homepage": "https://github.com/dosycorp/raw#readme"
+}
